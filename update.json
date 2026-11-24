@@ -1,7 +1,7 @@
 {
   "title": "Kernelx 2.0 Available",
-  "showWhatsNew": true,
-  "whatsNew": "What's New in Kernelx 2.0\n\nFree Fire MAX (India)  v2.133.1\n  • HWBP updated\n\nFree Fire MAX (Global)  v2.132.1\n  • HWBP not yet updated for this version\n\nFree Fire (Global)  v1.132.1\n  • HWBP not yet updated for this version\n\nFree Fire (India)  v1.134.1\n  • HWBP not yet updated for this version\n\nESP and Touch Aim work on all game versions.\n\nOther changes:\n  • New 4-game selector\n  • Driver flash options moved to Settings\n  • In-app update support\n  • Stability improvements",
+  "showWhatsNew": false,
+  "whatsNew": "What's New in Kernelx 2.0\n\nFree Fire MAX (India)  v2.133.1\n  • HWBP updated\n\nFree Fire MAX (Global)  v2.132.1\n  • HWBP not yet updated for this version\n\nFree Fire (Global)  v1.132.1\n  • HWBP not yet updated for this version\n\nFree Fire (India)  v1.134.1\n  • HWBP not yet updated for this version\n\nESP and Touch Aim work on all game versions.",
   "updateLink": "https://github.com/devrobinop/KernalX/releases/download/latest/Kernelx.apk",
   "versionName": "2.0",
   "versionCode": 1,
